@@ -1,6 +1,7 @@
 {
   "name": "rpg-awesome-raw",
   "version": "0.1.1",
+  "description": "Raw SVG files from nagoshiashumari/rpg-awesome",
   "repository": {
     "type": "git",
     "url": "git://github.com/jrmoynihan/rpg-awesome-raw.git"
